@@ -2,7 +2,9 @@
 
 Wow, you’re actually reading this! Hi! Thanks for checking out my profile.
 
-I’m a Senior Software Engineer in the Design System team of the [BBC Product Group](https://careers.bbc.co.uk/content/What-We-Do/). We are rebuilding almost the entire website to work on a shared design system and a common framework and platform. Its exciting stuff! I’m based in MediaCityUK, Salford.
+I’m a Senior Software Engineer in the Design System team of the [BBC Product Group](https://careers.bbc.co.uk/content/What-We-Do/), based in MediaCityUK, Salford. We are rebuilding almost the entire website to work on a shared design system and a common framework and platform. Its exciting stuff!
+
+I'm a member of the [CSS Working Group](https://www.w3.org/Style/CSS/) at the W3C.
 
 I’m an alumnus of [Aberystwyth University](https://www.aber.ac.uk/) (class of 2016!), an amazing university by the sea, where I studied [Computer Science](https://courses.aber.ac.uk/undergraduate/computer-science-degree-with-industrial-year/).
 
